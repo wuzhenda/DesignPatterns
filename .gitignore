@@ -1,0 +1,14 @@
+*/.svn
+.svn/
+bin/
+obj/
+.vs
+packages/
+*.exe
+*.obj
+*.pdb
+
+*/bin/
+*/obj/
+
+
